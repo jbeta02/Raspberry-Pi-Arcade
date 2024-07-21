@@ -1,0 +1,5 @@
+#!/bin/bash
+
+python3 /opt/retropie/configs/all/emulationstation/scripts/coin_counter.py
+
+exit 0
