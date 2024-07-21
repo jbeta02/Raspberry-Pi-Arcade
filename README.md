@@ -5,8 +5,8 @@ User has to enter 3 coins to play a limited amount of time then taken back to "E
 
 ## Set Up
 Assuming basic linux skills such as editing a file, modifing permissions, chanding directory, ect.
-1) First follow the instruction to get RetroPie [https://retropie.org.uk/docs/First-Installation/]. It is recommended use to Raspberry Pi Imager and to add custom name, password, as well as reliable wifi network during setup process (see installation instuctions on given websites). 
-Then add games using [https://retropie.org.uk/docs/Transferring-Roms/]. Map a controller in order to navigate the menues.
+1) First follow the instruction to get RetroPie [https://retropie.org.uk/docs/First-Installation/](https://retropie.org.uk/docs/First-Installation/). It is recommended use to Raspberry Pi Imager and to add custom name, password, as well as reliable wifi network during setup process (see installation instuctions on given websites). 
+Then add games using [https://retropie.org.uk/docs/Transferring-Roms/](https://retropie.org.uk/docs/Transferring-Roms/). Map a controller in order to navigate the menues.
 2)Start by exiting EmulationStation by going to the menue and selecting ```exit>exit EmulationStation```. You will be sent to RetroPi in headless mode to re-enter EmulationStation run ```emulationstation``` in terminal.
 3) If wifi network was not set during the installation process then follow [Pi Access Using SSH](#pi-access-using-ssh)
 4) From here files can be moved over using scp directly from ssh terminal, copy and paste, or other file transfer methods can be used. Note than Xsession will need to replace original Xsession file.
