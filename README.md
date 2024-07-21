@@ -1,3 +1,8 @@
+# Descripton
+Coin feature added to RetroPi.
+<br /><br />
+User has to enter 3 coins to play a limited amount of time then taken back to "Enter Coins" screen.
+
 ## Set Up
 Assuming basic linux skills such as editing a file, modifing permissions, chanding directory, ect.
 1) First follow the instruction to get RetroPie [https://retropie.org.uk/docs/First-Installation/]. It is recommended use to Raspberry Pi Imager and to add custom name, password, as well as reliable wifi network during setup process (see installation instuctions on given websites). 
